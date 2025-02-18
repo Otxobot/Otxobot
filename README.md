@@ -24,7 +24,7 @@ I'm an aspiring full-stack developer passionate about building impactful project
 **Exploring advanced frontend and backend architectures**
 ### Let's Connect
 **🌍 Portfolio: Coming Soon!**
-**💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/aiert-basante-b2002431b/)**
+**💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/aiert-basante-b2002431b/)**
 **📧 Email: aiertbasante1@gmail.com**
 
 **Feel free to explore my repositories, contribute, or reach out for collaboration. Let’s build something great together!**
