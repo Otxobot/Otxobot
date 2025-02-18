@@ -1,6 +1,3 @@
-
-![Visitor Count](https://profile-counter.glitch.me/Otxobot/count.svg)
-
 # Hi there, I'm Aiert Basante! 👋
 **🎓 Student at 42 Urduliz Fundación Telefónica**
 **💻 Aspiring Full-Stack Developer | Angular & Django Enthusiast**
