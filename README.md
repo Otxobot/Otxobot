@@ -1,4 +1,3 @@
-## Hi there 👋
 
 ![Visitor Count](https://profile-counter.glitch.me/Otxobot/count.svg)
 
