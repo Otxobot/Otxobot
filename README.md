@@ -3,7 +3,7 @@
 **💻 Aspiring Full-Stack Developer | Angular & Django Enthusiast**
 
 ### About Me
-I'm an aspiring full-stack developer passionate about building impactful projects. As a student at 42 Urduliz, I am accustomed to a collaborative, peer-driven environment that challenges me to learn and grow every day.
+I'm an aspiring full-stack developer. As a student at 42 Urduliz, I am accustomed to a collaborative, peer-driven environment that challenges me to learn and grow every day.
 
 ### 🌐 Skills & Interests
 - **Frontend:** Angular, HTML, CSS, JavaScript  
