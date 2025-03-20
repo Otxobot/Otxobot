@@ -13,28 +13,15 @@ I'm an aspiring full-stack developer. As a student at 42 Urduliz, I am accustome
 
 ### What I'm Working On
 - **ft_transcendence:** Multiplayer Pong platform with Angular, Django, and PostgreSQL  
-- **Personal Projects:** Building applications to showcase full-stack skills  
-📚 Learning:
+- **Personal Projects:** Building applications to showcase full-stack skills
 
-**Strengthening my skills in shell scripting and deployment strategies**
+### 📚 Learning:
+
+**Strengthening my skills in deployment strategies**
 **Exploring advanced frontend and backend architectures**
+
 ### Let's Connect
 - **🌍 Portfolio: Coming Soon!**
 - **💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/aiert-basante-b2002431b/)**
 - **📧 Email: aiertbasante1@gmail.com**
 
-**Feel free to explore my repositories, contribute, or reach out for collaboration. Let’s build something great together!**
-<!--
-**Otxobot/Otxobot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
