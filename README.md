@@ -21,7 +21,6 @@ I'm an aspiring full-stack developer. As a student at 42 Urduliz, I am accustome
 - **Exploring advanced frontend and backend architectures**
 
 ### Let's Connect
-- **🌍 Portfolio: Coming Soon!**
 - **💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/aiert-basante-b2002431b/)**
 - **📧 Email: aiertbasante1@gmail.com**
 
