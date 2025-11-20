@@ -11,10 +11,6 @@ I'm an aspiring full-stack developer. As a student at 42 Urduliz, I am accustome
 - **Databases:** PostgreSQL, MySQL  
 - **Deployment:** Docker, containerization  
 
-### What I'm Working On
-- **ft_transcendence:** Multiplayer Pong platform with Angular, Django, and PostgreSQL  
-- **Personal Projects:** Building applications to showcase full-stack skills
-
 ### 📚 Learning:
 
 - **Strengthening my skills in deployment strategies**
